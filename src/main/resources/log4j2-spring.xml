@@ -7,7 +7,7 @@
         </Console>
         <SplunkHttp
                 name="splunkhttp"
-                url="http://localhost:8088"
+                url="http://splunk:8088"
                 token="4d2c3755-88fd-4037-8f1f-5c09058388c7"
                 host="localhost"
                 index="order_api_dev"
