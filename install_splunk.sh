@@ -16,7 +16,7 @@ docker run -d \
   -p $WEB_PORT:8000 \
   -p $MANAGEMENT_PORT:8088 \
   -e SPLUNK_START_ARGS="--accept-license" \
-  -e SPLUNK_PASSWORD="your_password" \
+  -e SPLUNK_PASSWORD="password" \
   $SPLUNK_IMAGE
 
 # Wait for Splunk to initialize
