@@ -1,5 +1,14 @@
 # Sping Boot Splunk 
 
+# Install Java / Git / Maven / Spring Boot
+install_java_git_maven_spring.sh
+
+# Install Docker
+install_docker.sh
+
+# Install Splunk Enterprise
+install_splunk.sh
+
 # Running a Spring Boot Application with Docker
 docker build -t splunk-demo:latest .
 
