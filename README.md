@@ -1,2 +1,1 @@
-# springboot_splunk
-Sping Boot Splunk Integration
+# Splunk_Grafana_Setup
