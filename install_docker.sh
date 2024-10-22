@@ -30,5 +30,5 @@ sudo systemctl start docker
 docker --version
 
 # Print completion message
-echo "Docker installation completed successfully! Please log out and log back in for group changes to take effect."
+echo "Docker installation completed successfully! Please log out and log back in for group changes to take effect!"
 
