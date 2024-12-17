@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Define variables
 SPLUNK_IMAGE="splunk/splunk:latest"  # Use the latest Splunk Docker image
 WEB_PORT=8000                       # Port for Splunk web interface
