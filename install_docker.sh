@@ -27,6 +27,7 @@ sudo systemctl enable docker
 sudo systemctl start docker
 
 # Verify Docker installation
+echo "Docker version ...."
 docker --version
 
 # Print completion message
